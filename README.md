@@ -28,16 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->](https://vimeo.com/1031403777)
+<div style="padding:59.22% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1031403777?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="FLIXSTER2_ScreenRec"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Notes
 
